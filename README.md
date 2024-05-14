@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaboevsanjar&label=Profile%20views&color=0e75b6&style=flat" alt="isaboevsanjar" /> </p>
 
-- 🔭 I’m currently working on [Electron market](https://github.com/e-marketuz/Electron_market)
+- 🔭 I’m currently working on [Electron market](https://github.com/IsaboevSanjar/Go-Ball)
 
 - 🌱 I’m currently learning **More about Kotlin and the clean architecture of Android.**
 
